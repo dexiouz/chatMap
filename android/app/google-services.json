@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671920156780",
+    "project_id": "chatmap-8e7c9",
+    "storage_bucket": "chatmap-8e7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671920156780:android:60b138e34df0841cf82849",
+        "android_client_info": {
+          "package_name": "com.chatmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671920156780-qenh9p04i3emeiko405rgbo1v7sefj1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatmap",
+            "certificate_hash": "c4c0cf9d2bd2404cbaac40307874b18d8d429b77"
+          }
+        },
+        {
+          "client_id": "671920156780-qlbt1bp4iqgms0480o80nbhg65g9hslq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgKy1g5bdVRi8JvNs7dz8Y_tTfXP_gw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671920156780-qlbt1bp4iqgms0480o80nbhg65g9hslq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
